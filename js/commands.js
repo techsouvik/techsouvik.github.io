@@ -5,8 +5,8 @@ var email = 'mailto:souvikaasds01@gmail.com';
 whois = [
   "<br>",
   "Hey, I'm Souvik!👋",
-  "I'm a software developer.",
-  "I am currently a pre-final year student, ",
+  "I'm a Backend Engineer.",
+  "I am 2024 CS Grad",
   "pursuing Computer Science Engineering from IEM Kolkata.",
   "",
   "",
@@ -26,6 +26,7 @@ social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/in/souvikojha' + "</a>",
   'github         <a href="' + github + '" target="_blank">github/techsouvik' + "</a>",
+  'twitter         <a href="' + twitter + '" target="_blank">x/SouvikOjha3' + "</a>",
   "<br>"
 ];
 

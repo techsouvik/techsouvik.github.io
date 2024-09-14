@@ -99,7 +99,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:souvikaasds01@gmail.com">souvikaasds01@gmail.com</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:souvikojha707@gmail.com">souvikojha707@gmail.com</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
@@ -119,6 +119,10 @@ function commander(cmd) {
     case "github":
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
+      break;
+    case "twitter":
+      addLine("Opening Twitter...", "color2", 0);
+      newTab(twitter);
       break;
     case "":
       addLine("", "color2", 0);
