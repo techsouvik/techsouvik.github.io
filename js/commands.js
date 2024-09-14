@@ -1,6 +1,7 @@
 var linkedin = "https://www.linkedin.com/in/souvikojha/";
 var github = "https://github.com/techsouvik/";
-var email = 'mailto:souvikaasds01@gmail.com';
+var twitter = "https://twitter.com/Souvikojha3";
+var email = 'mailto:souvikojha707@gmail.com';
 
 whois = [
   "<br>",
@@ -26,7 +27,7 @@ social = [
   "<br>",
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/in/souvikojha' + "</a>",
   'github         <a href="' + github + '" target="_blank">github/techsouvik' + "</a>",
-  'twitter         <a href="' + twitter + '" target="_blank">x/SouvikOjha3' + "</a>",
+  'twitter         <a href="' + twitter + '" target="_blank">twitter/Souvikojha3' + "</a>",
   "<br>"
 ];
 
@@ -49,13 +50,7 @@ help = [
   "<br>",
 ];
 
-banner = [
-//   '  _____                               _____        __    __                    ____          __   __           ',
-//  '  / ___/ __  __ _____ __  __ ____ _   / ___/ ___   / /__ / /_   ____ _ _____   / __ \ ____ _ / /_ / /_ ____ _  ',
-//  '  \__ \ / / / // ___// / / // __ `/   \__ \ / _ \ / //_// __ \ / __ `// ___/  / / / // __ `// __// __// __ `/  ',
-//  '  ___/ // /_/ // /   / /_/ // /_/ /   ___/ //  __// ,<  / / / // /_/ // /     / /_/ // /_/ // /_ / /_ / /_/ /  ',
-//  ' /____/ \__,_//_/    \__, / \__,_/   /____/ \___//_/|_|/_/ /_/ \__,_//_/     /_____/ \__,_/ \__/ \__/ \__,_/   ',
-//    '                 /____/           ',                                                                         
+banner = [                                                
   '<span class="color2">Welcome to my web terminal.</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
