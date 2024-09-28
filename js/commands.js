@@ -20,11 +20,6 @@ whois = [
   "<br>"
 ];
 
-whoami = [
-  "<br>",
-  "You tell me :/",
-  "<br>"
-];
 
 social = [
   "<br>",
@@ -39,13 +34,13 @@ projects = [
   'Auto-Deployer       <a href="' + AutoDeployer + '" target="_blank">Source Code' + "</a>",
   'StoryTeller         <a href="' + StoryTeller + '" target="_blank">Source Code' + "</a>",
   'Summarizer AI         <a href="' + SummarizerAI + '" target="_blank">Source Code' + "</a>",
+  "NPM package         (Currently hosted on NPM, type npx souvikojha in your terminal to know more about me)",
   "<br>"
 ];
 
 help = [
   "<br>",
   '<span class="command">whois</span>          (Having an existential crisis right now)',
-  '<span class="command">whoami</span>         Who are you?',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
@@ -56,6 +51,6 @@ help = [
 ];
 
 banner = [                                                
-  '<span class="color2">Welcome to my web terminal.</span>',
+  `<span class="color2">Welcome to Souvik Ojha's web terminal.</span>`,
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
