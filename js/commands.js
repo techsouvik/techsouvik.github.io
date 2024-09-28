@@ -2,6 +2,9 @@ var linkedin = "https://www.linkedin.com/in/souvikojha/";
 var github = "https://github.com/techsouvik/";
 var twitter = "https://twitter.com/Souvikojha3";
 var email = 'mailto:souvikojha707@gmail.com';
+var AutoDeployer = "https://github.com/techsouvik/auto-deployer";
+var StoryTeller = "https://github.com/techsouvik/storyteller";
+var SummarizerAI = "https://github.com/techsouvik/cimba_ai_project";
 
 whois = [
   "<br>",
@@ -33,7 +36,9 @@ social = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
+  'Auto-Deployer       <a href="' + AutoDeployer + '" target="_blank">Source Code' + "</a>",
+  'StoryTeller         <a href="' + StoryTeller + '" target="_blank">Source Code' + "</a>",
+  'Summarizer AI         <a href="' + SummarizerAI + '" target="_blank">Source Code' + "</a>",
   "<br>"
 ];
 

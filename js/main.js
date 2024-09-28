@@ -120,6 +120,19 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
       break;
+    // projects
+    case "autodeployer":
+      addLine("Opening Auto-Deployer...", "color2", 0);
+      newTab(AutoDeployer);
+      break;
+    case "storyteller":
+      addLine("Opening StoryTeller...", "color2", 0);
+      newTab(StoryTeller);
+      break;
+    case "summarizerai":
+      addLine("Opening Summarizer AI...", "color2", 0);
+      newTab(SummarizerAI);
+      break;
     case "twitter":
       addLine("Opening Twitter...", "color2", 0);
       newTab(twitter);
